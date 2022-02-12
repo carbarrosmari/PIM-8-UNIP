@@ -1,5 +1,28 @@
 # PIM-8-UNIP
-Projeto para compor nota do PIM VIII do curso de Análise e Desenvolvimento de Sistemas na Universidade Paulista
+UNIVERSIDADE PAULISTA – UNIP EaD
+Projeto Integrado Multidisciplinar
+Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
+
+MARIANA CARDOSO DE BARROS – RA: 0570067
+
+DESENVOLVIMENTO DE PROTÓTIPO DE INTERFACE GRÁFICA COM ASP.NET E ANDROID E CRUD COM C#
+Projeto Integrado Multidisciplinar para obtenção do título de tecnólogo em Análise e Desenvolvimento de Sistemas apresentado à Universidade Paulista – UNIP EaD.
+
+Maceió – AL
+2021
+
+## RESUMO
+
+O presente projeto integrador multidisciplinar tem como objetivo desenvolver os conhecimentos adquiridos nas disciplinas de Programação Orientada a Objetos II, Desenvolvimento de Software para a Internet e Tópicos Especiais de Programação Orientada a Objetos e aplicá-los através de uma situação problema proposta  a fim de proporcionar uma experiencia de aprendizado através de uma situação real e de desenvolver as competências técnicas necessárias ao desenvolvedor como a análise e resolução de problemas. Deste modo, o ambiente proposto para o projeto consiste em desenvolver um protótipo de interface gráfica para web utilizando a plataforma ASP.NET e o Xamarin para o desenvolvimento mobile. Para implementar o acesso ao banco de dados será utilizado a linguagem C# com base num diagrama Entidade-Relacionamento com as especificações pré-definidas e também o diagrama de classes. O projeto será desenvolvido com base na arquitetura MVC – Model, View, Controller – para facilitar o acesso do banco de dados aos protótipos mobile web. 
+
+Palavra-chave: ASP.NET, C#, Android Studio, MVC.
+
+## ABSTRACT
+
+This multidisciplinary integrative project aims to develop the knowledge acquired in the disciplines of Object-Oriented Programming II, Software Development for the Internet and Special Topics in Object-Oriented Programming and apply them through a proposed problem situation in order to provide a learning experience through a real situation and developing the technical skills needed by the developer such as analysis and problem solving. Thus, the proposed environment for the project consists of developing a graphical interface prototype for the web using the ASP.NET platform and Xamarin for mobile development. To implement the access to the database, the C# language will be used based on an Entity-Relationship diagram with pre-defined specifications and also the class diagram. The project will be developed based on the MVC architecture – Model, View, Controller – to facilitate database access to mobile web prototypes.
+
+
+Keyword: ASP.NET, C#, Xamarin, MVC.
 
 ## INTRODUÇÃO
 Os avanços tecnológicos das ultimas décadas proporcionaram ao usuário  uma gama imensa de ferramentas para auxílio, aprimoramento, facilitação do trabalho, das relações humanas, do acesso à informação e consequentemente transformou a sociedade na Sociedade da Informação, conceito definido por Manuel Castells como:
