@@ -71,6 +71,9 @@ O sistema deve conter telas de cadastro onde seja possível que o usuário consi
 
 O diagrama abaixo representa a estrutura das classes que serão desenvolvidas e as características dos dados no banco.
 
+![carbarrosmari](https://user-images.githubusercontent.com/85528965/153727328-47ffad26-d9c0-4b9b-853a-3e50b6c38912.png)
+Fonte: Manual do PIM VIII.
+
 ### 2.2. Cronograma de Atividades
 	
 É essencial que se planeje o curso do desenvolvimento das atividades e estimativas a fim de entregar um projeto com qualidade e de forma ágil. Deve-se sempre levar em consideração o contexto em que se encontra a equipe de desenvolvimento, como: capacidade técnica, recursos disponíveis e limitações de diversas origens que impacte na estimativa de tempo de execução do projeto.
@@ -79,37 +82,38 @@ Será utilizado a metodologia ágil Scrum como modelo organizacional para as ati
 
 O quadro kanban apresenta a esteira de desenvolvimento dos backlogs onde as colunas representam a etapa em que cada backlog se encontra na esteira de desenvolvimento e cada card possui a descrição da atividade a ser desenvolvida possuindo um campo para estimativa, inicio e data limite de entrega. 
 
+![carbarrosmari](https://user-images.githubusercontent.com/85528965/153727322-a004ad55-1e9d-4f64-ba9c-0c3df81f0fe1.png)
+Fonte: A autora, 2021.
+
+![carbarrosmari](https://user-images.githubusercontent.com/85528965/153727316-5064dbc5-380e-4a41-a06a-4b4661a5ed0d.png)
+Fonte: A autora, 2021.
+
+![carbarrosmari](https://user-images.githubusercontent.com/85528965/153727312-a59ac13d-940f-441c-a1cc-90caf7dc23a7.png)
+Fonte: A autora, 2021.
+
+![carbarrosmari](https://user-images.githubusercontent.com/85528965/153727309-88a652c8-1b35-48f4-9b93-c06abd86a3e0.png)
+Fonte: A autora, 2021.
 
 ## 3. Protótipo Web
 
 Abaixo é possível observar uma parte do código que constrói a página de interface gráfica com ASP.NET.
 
-
-
-
-
-
-
-
-
-
+![carbarrosmari](https://user-images.githubusercontent.com/85528965/153727306-0f0ef245-4984-4e3f-a94b-246e99db85ac.png)
+Fonte: A autora, 2021.
 
 ## 4. Acesso ao Banco de Dados
 
 No código abaixo podemos visualizar a conexão com o banco de dados.
 
+![carbarrosmari](https://user-images.githubusercontent.com/85528965/153727297-61c07c52-51bb-49e0-bb8d-f2dabe42ab2a.png)
 Fonte: A autora, 2021.
-
 
 ## 5. Conclusão
 
 Este projeto buscou desenvolver as habilidades de front-end e back-end com a linguagem C# através de um formulário de cadastro de pessoa, desenvolvendo cada etapa do projeto, como o escopo, o cronograma com quadro kanban e também foi definido os padrões do projeto.
 
 Sendo assim, vemos a  importância de aplicar design patterns, do planejamento da estimativa de desenvolvimento.
- 
-
-
-                                                                                                                                                                                                                                                                                                           
+                                                                                                                                       
 ## 6. Referências
 
 RITTER, Felipe. Desenvolvimento em ASP.NET MVC utilizando Entity Framework. Medianeira. 2011.
